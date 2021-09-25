@@ -1,6 +1,6 @@
 import gnupg
 
-gpg = gnupg.GPG(gnupghome='/home/tai/.gnupg')
+gpg = gnupg.GPG(gnupghome="/home/tai/.gnupg")
 
 input_data = gpg.gen_key_input(
     name_real="Tai Le",
