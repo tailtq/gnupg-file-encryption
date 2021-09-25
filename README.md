@@ -1,6 +1,6 @@
 # GnuPG (GPG)
 
-### Generate Input Parameters**:**
+### Generate Input Parameters:
 
 - User ID (name/email address): associate the key being created with a real person.
 
@@ -13,7 +13,7 @@
 - Expire-Date
 - ...
 
-### Exporting Keys Parameters**:**
+### Exporting Keys Parameters:
 
 - Armor: Creating ASCII instead of binary file
 - Passphrase
